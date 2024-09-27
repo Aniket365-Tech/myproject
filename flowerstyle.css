@@ -1,0 +1,45 @@
+
+
+.topnav{
+    background-color: rgb(177, 143, 209);
+    overflow: hidden;
+}
+.topnav a{
+    float: right;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+
+}
+.heading{
+    font-style: italic;
+    
+    font-size: 30px;
+    color:rgb(135, 63, 202) ;
+    position: absolute;
+    top: 210px;
+    left: 110px;
+}
+
+.para{
+ 
+    font-style: italic;
+    font-size: 16px;
+    color: rgb(95, 32, 154) ;
+    position: absolute;
+    top: 370px;
+    left: 110px;
+    font-size: 18px;
+}
+
+.button{
+
+    background-color: rgb(126, 73, 175);
+    color: white;
+    position: absolute;
+    top: 450px;
+    left: 110px;
+    font-size: 25px
+
+}
